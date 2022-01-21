@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Carrito de compras
+
+Proyecto a modo de ejemplo de un carrito de compras hecho con componentes basados en clases
+
+### _______________________
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
